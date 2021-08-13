@@ -9,7 +9,9 @@ enough to follow along. The sample scripts included in this folder are written
 to pull a subset of contigs out of a fasta ('.fa') file, as specified by a list
 file in an appropriate format ('.txt,' '.tsv,' etc). You should probably start
 by opening and examining the example fasta and text files (example.fa, 
-list-of-contigs.txt) so as to better understand what the scripts do. Then begin
+list-of-contigs.txt) so as to better understand what the scripts do. ||Note: 
+'example.fa' only exists in the server version of this folder because it is a
+large file and is not worth putting on the online version of github.|| Then, start
 by opening sampleA.py -- follow along with the comments until the script makes
 sense, then run it using the command included in its header. After the process
 is complete, follow the same steps for sampleB.py. Take note of the time it
