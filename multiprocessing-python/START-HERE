@@ -1,0 +1,37 @@
+Python Multiprocessing
+Kenyon
+Last modified 08/12/21
+
+This is a quick tutorial on writing Python scripts that run across multiple
+threads using the multiprocessing library. A basic understanding of python
+scripting is assumed, although any programming experience at all should be
+enough to follow along. The sample scripts included in this folder are written
+to pull a subset of contigs out of a fasta ('.fa') file, as specified by a list
+file in an appropriate format ('.txt,' '.tsv,' etc). You should probably start
+by opening and examining the example fasta and text files (example.fa, 
+list-of-contigs.txt) so as to better understand what the scripts do. Then begin
+by opening sampleA.py -- follow along with the comments until the script makes
+sense, then run it using the command included in its header. After the process
+is complete, follow the same steps for sampleB.py. Take note of the time it
+took each script to run, as the difference illustrates the handiness of
+utilizing the multiprocessing library. You can also compare the output files;
+they should be exactly the same, since this tutorial utilizes a very "safe"
+version of multiprocessing so that no memory is corrupted.
+
+The included contig list has just 70 entries, and the fasta file contains
+2 million contigs; if the size of either were one or more orders of magnitude
+larger, minutes or even hours could be saved with multiprocessing. I originally
+wrote these scripts for a contig list of 2,000 entries and a fasta file of 12
+million contigs, and the resulting time difference was 1 hour for the base
+script vs 3 minutes with multiprocessing across 15 threads. That doesn't even
+make sense to me since it should only be able to scale according to the number
+of processers used, but hey I'm not complaining ¯\_(ツ)_/
+
+Other notes -- I would recommend you use some kind of text editor to view the
+script files, as simply opening them with less will make it difficult to
+distinguish between comments and code. It is also very important to use python3
+when running anything in the multiprocessing library, as many of its most
+useful features are only supported in python version 3.3 and above. Lastly,
+always be mindful of the capacity of the server and the processers/RAM that you
+are using. I generally open two shells simultaneously so that I can test my
+scripts in one while I survey thread usage using 'top' on the other. Good luck!
