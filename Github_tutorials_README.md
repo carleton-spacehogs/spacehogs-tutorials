@@ -19,5 +19,8 @@ Written by Garrett Chappell, summer 2020.
 Google Doc is located here: https://docs.google.com/document/d/1NU0MKZ7zvMargGlsG9O1Y6a5V5nMPLtxbw2pXOC5XYc/edit?usp=sharing
 Written by Qianzi Li, spring 2021.
 
-#### 5. General bioinformatics methods from the Genomics and Bionformatics course taught at Carleton College
+#### 5. Shared Google Drive for docs, files, photos, etc.
+https://drive.google.com/drive/folders/129ttgkHowS5TwmbjXelmxw9gxmmvAFit?usp=sharing
+
+#### 6. General bioinformatics methods from the Genomics and Bionformatics course taught at Carleton College
 Read the Docs link here: https://carleton-bioinformatics.readthedocs.io/en/latest/index.html
