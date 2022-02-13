@@ -24,3 +24,9 @@ https://drive.google.com/drive/folders/129ttgkHowS5TwmbjXelmxw9gxmmvAFit?usp=sha
 
 #### 6. General bioinformatics methods from the Genomics and Bionformatics course taught at Carleton College
 Read the Docs link here: https://carleton-bioinformatics.readthedocs.io/en/latest/index.html
+
+#### 7. If you want to use RStudio on the server, point a web browser to this URL:
+https://baross.its.carleton.edu/rstudio/
+It’s only visible from the Carleton campus, or when logged on to the Carleton VPN. It’s good practice to make sure you’re on the Carleton VPN regardless whenever you’re logging on to baross from off campus.
+The commercial version of rstudio server sets a memory limit to 1 GB, and we’ve set the memory limit to 6GB. 
+
