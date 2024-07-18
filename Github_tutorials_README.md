@@ -16,6 +16,8 @@ Google Doc is located here: https://docs.google.com/document/d/1bVdBwOAgYFkVzXC1
 Written by Garrett Chappell, summer 2020.
 Here is a slightly more updated Google Doc, based on the methods above: https://docs.google.com/document/d/1Cu9rDoOFIhRMGvLSCIuH4u0AxuEm5968JTbwl8KCwe4/edit#heading=h.3ie8tf8eheeu
 Written by Aya Klos, summer 2023.
+To parse the ecceTERA output, tutorial located here: https://docs.google.com/document/d/11y4hSfNM489dIRhHe_dFMb6E-Dzou_Fu/edit?usp=drive_link&ouid=106696879950124104588&rtpof=true&sd=true
+Written by Joanne Boden, summer 2024.
 
 #### 4. Using machine learning (random forest) to identify genes enriched in specific metagenomes; batch downloading metagenomes from JGI.
 Google Doc is located here: https://docs.google.com/document/d/1NU0MKZ7zvMargGlsG9O1Y6a5V5nMPLtxbw2pXOC5XYc/edit?usp=sharing
