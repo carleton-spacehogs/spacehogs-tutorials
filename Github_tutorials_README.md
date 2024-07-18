@@ -35,6 +35,6 @@ It’s only visible from the Carleton campus, or when logged on to the Carleton 
 The commercial version of rstudio server sets a memory limit to 1 GB, and we’ve set the memory limit to 6GB. 
 
 #### 8. Creating a multi-gene timeline using ecceTERA output on the server.
-Read the Docs linked here: 
+Read the Docs linked here: https://docs.google.com/document/d/1rnpAjFkvcnU3w6OVHUP1rsG_ZgjsVXQhobXTz2dTho0/edit?usp=sharing
 A copy of all needed example files is located in the folder called "gene-timelines". Written by Will Puzella, summer 2024
 
