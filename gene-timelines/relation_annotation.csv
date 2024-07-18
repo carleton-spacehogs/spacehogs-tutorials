@@ -1,0 +1,37 @@
+﻿Gene ID,Gene Name,Function,Annotation
+K03520,coxL,Carbon,CO -> CO2
+K01601,rbcL,Carbon,CO2 -> organics
+K00193,cdhC,Carbon,Methyl-S-coenzyme M -> CH4
+K00194,cdhD,Carbon,Methyl-S-coenzyme M -> CH4
+K00195,cdhB,Carbon,Methyl-S-coenzyme M -> CH4
+K00197,cdhB,Carbon,Methyl-S-coenzyme M -> CH4
+K00200,fwdA/fmdA,Carbon,CO2 <-> formylethanofuran
+K00201,fwdB/fmbB,Carbon,CO2 <-> formylethanofuran
+K00202,fwdC/fmbC,Carbon,CO2 <-> formylethanofuran
+K00203,fwdD/fmbD,Carbon,CO2 <-> formylethanofuran
+K11261,fwdE/fmdE,Carbon,CO2 <-> formylethanofuran
+K05922,hydB,Hydrogen,H2 -> H+
+K18016,mbhL,Hydrogen,H+ -> H2
+K00367,narB,Nitrogen,NO3- -> NO2-
+K00366,nirA,Nitrogen,NH3 -> NO2-
+K03385,nfrA,Nitrogen,NH3 -> NO2-
+K00370,narG/nxrA,Nitrogen,NO3- -> NO2-
+K02567,napA,Nitrogen,NO3- -> NO2-
+K00368,nirK,Nitrogen,NO2- -> NO
+K15864,nirS,Nitrogen,NO2- -> NO
+K04561,norB,Nitrogen,NO -> N2O
+K00376,nosZ,Nitrogen,N2O ->N2
+K05601,hcp,Nitrogen,NH3 -> NH2OH
+K00362,nirB,Nitrogen,NO2- -> NH3
+K02586,nifD,Nitrogen,N2 -> NH3
+K03782,katG,Oxygen,H2O2 -> H20 + O2
+K00518,sodN,Oxygen,O2- -> O2 + H202
+K02703,psbA1,Oxygen,H20 -> O2
+K00392,sir,Sulfur,SO3 2- -> S 2-
+K21900,cysL,Sulfur,SO3 2- -> S 2-
+K07306,dmsA,Sulfur,(CH3)2SO -> (CH3)2S
+K11180,dsrA,Sulfur,SO3 2- -> H2S
+K21307,soeA,Sulfur,SO3 2- -> SO4 2-
+K17225,soxC,Sulfur,S2O3 2- -> SO4 2-
+K00304,soxD,Sulfur,S2O3 2- -> SO4 2-
+K08352,phsA/psrA,Sulfur,S2O3 2- -> H2S
