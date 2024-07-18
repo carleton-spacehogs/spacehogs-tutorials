@@ -14,6 +14,8 @@ Written by Katherine Mateos, summer 2020.
 #### 3. Reconciling gene and species trees using ecceTERA.
 Google Doc is located here: https://docs.google.com/document/d/1bVdBwOAgYFkVzXC1qXo_bbUPEPjbxliiFd2j9L5HoK4/edit?usp=sharing
 Written by Garrett Chappell, summer 2020.
+Here is a slightly more updated Google Doc, based on the methods above: https://docs.google.com/document/d/1Cu9rDoOFIhRMGvLSCIuH4u0AxuEm5968JTbwl8KCwe4/edit#heading=h.3ie8tf8eheeu
+Written by Aya Klos, summer 2023.
 
 #### 4. Using machine learning (random forest) to identify genes enriched in specific metagenomes; batch downloading metagenomes from JGI.
 Google Doc is located here: https://docs.google.com/document/d/1NU0MKZ7zvMargGlsG9O1Y6a5V5nMPLtxbw2pXOC5XYc/edit?usp=sharing
