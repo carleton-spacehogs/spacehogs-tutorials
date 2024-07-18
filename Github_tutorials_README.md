@@ -30,3 +30,7 @@ https://baross.its.carleton.edu/rstudio/
 It’s only visible from the Carleton campus, or when logged on to the Carleton VPN. It’s good practice to make sure you’re on the Carleton VPN regardless whenever you’re logging on to baross from off campus.
 The commercial version of rstudio server sets a memory limit to 1 GB, and we’ve set the memory limit to 6GB. 
 
+#### 8. Creating a multi-gene timeline using ecceTERA output on the server.
+Read the Docs linked here: 
+A copy of all needed example files is located in the folder called "gene-timelines". Written by Will Puzella, summer 2024
+
